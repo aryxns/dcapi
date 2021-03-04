@@ -2,8 +2,8 @@
 var Twit = require('twit')
  
 var T = new Twit({
-  consumer_key:         'XyV11gL5qjFj4MuQJroVyuEm5',
-  consumer_secret:      'gpckYPB7VVDar83o3nuIXk1bmLAFuLmH64sbRMoM0YiU2wR71s',
+  consumer_key:         'HN5mgnSJY0GPi2GGbZ1AmcbNK',
+  consumer_secret:      'KtJ6hIJ9VPYAzv9uBAoB7XuuW1aQPSprzqUm3fgQijJedTHGZC',
   access_token:         '1125757371861520389-mhDiO93hwCy4P9BLHrnShmsV5Ede5K',
   access_token_secret:  'kXrTf5NfdlJRl60LwsQqah8LanKP4iGVyYBE6d2qhCfrc',
 })
